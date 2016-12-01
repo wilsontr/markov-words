@@ -25,6 +25,9 @@ fs.readFile(inputFileName, 'utf8', (err, data) => {
 	console.log(getMarkovWord(letterMap, 5));
 	console.log(getMarkovWord(letterMap, 6));
 	console.log(getMarkovWord(letterMap, 7));
+	console.log(getMarkovWord(letterMap, 8));
+	console.log(getMarkovWord(letterMap, 9));
+	console.log(getMarkovWord(letterMap, 10));
 });
 
 
