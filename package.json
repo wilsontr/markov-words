@@ -1,0 +1,19 @@
+{
+  "name": "markov-words",
+  "version": "0.0.1",
+  "description": "Word and sentence generator using Markov analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsontr/markov-words.git"
+  },
+  "author": "Trevor Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilsontr/markov-words/issues"
+  },
+  "homepage": "https://github.com/wilsontr/markov-words#readme"
+}
